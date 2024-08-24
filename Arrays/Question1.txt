@@ -1,0 +1,1 @@
+Find the element in array which appears only once. If multiple elements appear once return the minimum one.
